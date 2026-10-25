@@ -27,18 +27,7 @@ The lab used a fixed investigation window of **June 2, 2026 00:00:00 through Jun
 - Network traffic analysis
 - Threat hunting
 - Security event investigation
-
-## Repository Structure
-
-```text
-azure-nsg-network-threat-hunting/
-|
-|-- README.md
-|-- queries/
-|   |-- 01-port-scan-detection.kql
-|   |-- 02-permissive-nsg-rules.kql
-|   |-- 03-denied-inbound-flows.kql
-
+- 
 # Investigation 1: Port Scan Detection
 
 ## Objective
