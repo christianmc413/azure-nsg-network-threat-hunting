@@ -38,16 +38,6 @@ azure-nsg-network-threat-hunting/
 |   |-- 01-port-scan-detection.kql
 |   |-- 02-permissive-nsg-rules.kql
 |   |-- 03-denied-inbound-flows.kql
-|   |-- 04-beaconing-detection.kql
-|   `-- 05-potential-data-exfiltration.kql
-|
-`-- screenshots/
-    |-- 01-port-scan-results.png
-    |-- 02-permissive-nsg-rules.png
-    |-- 03-denied-inbound-flows.png
-    `-- 04-additional-hunting.png
-```
----
 
 # Investigation 1: Port Scan Detection
 
